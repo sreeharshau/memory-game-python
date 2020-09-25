@@ -1,6 +1,6 @@
 # Emoji Memory Game
 
-This is an emoji-based memory tile game. The objective is to find and match all the correct sets of similar tiles scattered across the board. To see the game in action, follow the steps below to set it up on your machine or refer to the Wiki for screenshots.
+This is an emoji-based memory tile game. The objective is to find and match all the correct sets of similar tiles scattered across the board. To see the game in action, follow the steps below to set it up on your machine or refer to the Wiki (https://github.com/sreeharshau/memory-game-python/wiki) for screenshots.
 
 # Deployment Steps
 ## Prerequisites
