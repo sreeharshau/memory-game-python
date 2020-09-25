@@ -17,13 +17,13 @@ Use the repository link provided by Github
 git clone <repo-link>
 ```
 ## Running the code
-- **Note**: Please do not move out *cardBackground.jpg* or *ImagePaths.cfg* from the same directory as *gameMain.py*
+- **Note**: Please do not move out __ImagePaths.cfg__ or __cardBackground.jpg__ from the same directory as __gameMain.py__
 ```
 python3 gameMain.py
 ```
 # Configurable Parameters
-- Various parameters such as the game screen size, tile size and colors are configurable and can be changed by changing the relevant lines at the top of the code in *gameMain.py*
-- Additional Sprites can be used by adding a label to describe them as well as their file paths into *ImagePaths.cfg*
-- The face-down card background can be changed by renaming the required file to *cardBackground.jpg* and placing it in the same directory as *gameMain.py*
+- Various parameters such as the game screen size, tile size and colors are configurable and can be changed by changing the relevant lines at the top of the code in __gameMain.py__
+- Additional Sprites can be used by adding a label to describe them as well as their file paths into __ImagePaths.cfg__
+- The face-down card background can be changed by renaming the required file to __cardBackground.jpg__ and placing it in the same directory as __gameMain.py__
 - The correct and incorrect match sounds can be changed by replacing the mp3 files with the required tones
 
